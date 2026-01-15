@@ -1,2 +1,3 @@
 # ML_PROJECTS
 SOME BASIC PROJECTS INCLUSIVE WITH THE USE OF SOME PYTHON LIBRARIES LIKE NUMPY, PANDAS, MATPLOTLIB, SCIKIT LEARN, TENSORFLOW, PYTORCH 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
